@@ -79,7 +79,7 @@ function showScoreBoard(){
   console.log();
   console.log(chalk.bold.red("-------------LEADERBOARD--------------"));
   console.log();
-
+  leaderBoard.push({name:name,score:score});
   console.table(leaderBoard);
 
   playAgain();
