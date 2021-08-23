@@ -44,6 +44,16 @@ function startGame(){
       question: "Naruto first teacher name?",
       options: ["Mizuki","Iruka","Kakashi","Orochimaru"],
       answer:2
+    },
+    {
+      question: "What is squad number of Naruto's team",
+      options: ["Squad7","Squad4","Squad3","Squad5"],
+      answer:1
+    },
+    {
+      question: "Whose eye kakashi is using?",
+      options: ["obito","Madara","Itachi","Danzo"],
+      answer: 1
     }
   ];
 
